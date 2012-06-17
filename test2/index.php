@@ -8,5 +8,6 @@
         <?php
         // put your code here
         ?>
+        障害対応完了
     </body>
 </html>
